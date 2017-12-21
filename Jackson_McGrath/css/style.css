@@ -10,12 +10,17 @@
 	width: 100px;
 }
 
-
-
-
 #board {
 	width: 800px;
 	height: 800px;
 	background-color: lavender;
 	margin: 0 auto;
+}
+
+.square {
+	width: 262.5px;
+	height: 262.5px;
+	border: 2px solid grey;
+	display: inline-block;
+	margin: -2px 0px;
 }
