@@ -1,0 +1,21 @@
+#button-container {
+	text-align: center;
+	margin: 20px;
+}
+
+#clear-board {
+	border: none;
+	border-radius: 10px;
+	height: 40px;
+	width: 100px;
+}
+
+
+
+
+#board {
+	width: 800px;
+	height: 800px;
+	background-color: lavender;
+	margin: 0 auto;
+}
